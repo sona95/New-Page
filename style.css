@@ -1,12 +1,12 @@
 ﻿body {
-    font-family: 'Bree Serif', serif;
-    margin: 0;
-    padding: 0;
-    background: #E8FFC4;
-    color: #3f3f3f;
-    font-size: 14px;
-    line-height: 24px;
-}
+     font-family: 'Bree Serif', serif;
+     margin: 0;
+     padding: 0;
+     background: #E8FFC4;
+     color: #3f3f3f;
+     font-size: 14px;
+     line-height: 24px;
+ }
 
 #top {
     background: #88B2FF;
@@ -16,11 +16,11 @@
     border-bottom: 6px solid #77A1ED;
 }
 
-#header {
+header {
     float: left;
 }
 
-#header h1 {
+header h1 {
     margin: 0;
     padding: 0;
     font-weight: bold;
@@ -68,13 +68,13 @@ nav li a:hover {
     border-radius: 7px;
 }
 
-.cleft {
+aside {
     float: left;
     padding: 20px 0 20px 20px;
     width: 200px;
 }
 
-.cleft h3 {
+aside h3 {
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     border-radius: 7px;
@@ -85,18 +85,18 @@ nav li a:hover {
     padding: 3px 10px;
 }
 
-.cleft ul {
+aside ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-.cleft ul li {
+aside ul li {
     margin: 0 0 5px 0;
     color: #fff;
 }
 
-.cleft ul li a {
+aside ul li a {
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     border-radius: 7px;
@@ -108,7 +108,7 @@ nav li a:hover {
     padding: 3px 10px;
 }
 
-.cleft ul li a:hover {
+aside ul li a:hover {
     background: #377358;
 }
 
